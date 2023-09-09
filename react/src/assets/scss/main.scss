@@ -1,0 +1,8 @@
+@import "variable";
+@import "reset";
+@import "./components/Header";
+@import "./components/product";
+@import "./components/Sidebar";
+// @import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "~bootstrap/scss/bootstrap.scss";

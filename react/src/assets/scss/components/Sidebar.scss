@@ -1,0 +1,53 @@
+.custom-icon{
+    font-size: 12px !important;
+
+}
+.product-count{
+    letter-spacing: 1.1px;
+    color: rgba(33,36,61,.8);
+    background-color: rgba(65,66,71,.08);
+    border-radius: 5px;
+}
+.rating__icon{
+    font-size: 25px;
+}
+.sidebar__title{
+    color: #21243d;
+    letter-spacing: .08rem;
+    text-transform: uppercase;
+    border: none;
+    padding-bottom: 1rem;
+    font-size: .8rem;
+    font-weight: 600;
+    line-height: 1.6;
+    font-weight: bold;
+}
+.sidebar__section{
+    border-top: 1px solid #ebecf3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.brand__item{
+    font-size: 1.1rem;
+}
+
+.rc-slider-track {
+    background-color: $primary; 
+  }
+  
+  
+  .rc-slider-handle {
+    background-color: white; 
+  }
+  
+  /* Custom Slider Handle Color when Active */
+  .rc-slider-handle:active {
+    background-color:white; 
+  }
+  
+ 
+  .rc-slider-handle:focus {
+    box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.2); 
+  }
+  
+
